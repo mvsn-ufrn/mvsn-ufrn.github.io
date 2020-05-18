@@ -13,7 +13,7 @@ menu:
       - name: OurLegacy
         link: /projects/ourlegacy
   - name: Posts
-    link: /posts
+    link: /
   - name: Tags
     link: /tags
   - name: Sobre
