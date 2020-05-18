@@ -18,6 +18,7 @@ name: Quarentena feelings
 description: 
   Apenas delírios de um estudante de engenharia tentando se manter são na quarentena.
 baseurl: "" # the subpath of your site, e.g. /blog
+url: "mvsn-ufrn.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  mvsn-ufrn
 
 # jekyll-paginate configuration
