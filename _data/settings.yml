@@ -10,7 +10,7 @@ menu:
   - name: Featured Projects
     submenu:
       - name: Material Física
-        link: /projects/m_fisica
+        link: /projects/mfisica
       #- name: OurLegacy
        # link: /projects/ourlegacy
   - name: Posts
