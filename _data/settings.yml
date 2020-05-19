@@ -8,11 +8,9 @@ disqus:
 menu: 
   - name: Projetos 
     submenu:
-      - name: Em Desenvolvimento
-      submenu:
         - name: Material de Física
         link: /projects/mfisica
-       - name: Finalizados
+       - name: ourlegacy
         link: /projects/ourlegacy
   - name: Posts
     link: /
