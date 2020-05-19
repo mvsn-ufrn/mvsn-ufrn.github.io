@@ -6,16 +6,16 @@ disqus:
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 
 menu: 
-  - name: Projetos 
+  - name: Projetos em Desenvolvimento
     submenu:
-        - name: Material de Física
+      - name: Material de Física
         link: /projects/mfisica
-       - name: ourlegacy
-        link: /projects/ourlegacy
+      # - name: OurLegacy
+       # link: /projects/ourlegacy
   - name: Posts
     link: /
- # - name: Projetos Finalizados
- #   link: /project
+  - name: Projetos Finalizados
+    link: /project
   - name: Sobre
     link: /about
   # - name: Follow me
