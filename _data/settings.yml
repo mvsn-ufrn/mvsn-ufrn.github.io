@@ -12,6 +12,8 @@ menu:
         link: /projects/mfisica
       - name: Avaliação do Potencial Energético Solar e Análise da Influência da Temperatura no Desempenho das Células Solares
         link: /projects/radiacao.html
+        - name: Estudo da eficiência térmica e energética dos condicionadores de ar do IFRN Canguaretama
+        link: /projects/e_termica.html
   - name: Posts
     link: /
   - name: Sobre
