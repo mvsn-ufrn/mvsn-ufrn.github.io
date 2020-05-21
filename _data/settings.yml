@@ -9,10 +9,10 @@ menu:
   - name: Projetos
     submenu:
       - name: Material de Física
-        link: /projects/mfisica/e_termica
+        link: /projects/mfisica/mfisica
       - name: Avaliação do Potencial Energético Solar e Análise da Influência da Temperatura no Desempenho das Células Solares
-        link: /projects/radiacao/e_termica
-        - name: Estudo da eficiência térmica e energética dos condicionadores de ar do IFRN Canguaretama
+        link: /projects/radiacao/radiacao
+      - name: Estudo da eficiência térmica e energética dos condicionadores de ar do IFRN Canguaretama
         link: /projects/e_termica/e_termica
   - name: Posts
     link: /
