@@ -10,8 +10,8 @@ menu:
     submenu:
       - name: Material de Física
         link: /projects/mfisica
-      - name: OurLegacy
-        link: /projects/ourlegacy
+      - name: Avaliação do Potencial Energético Solar e Análise da Influência da Temperatura no Desempenho das Células Solares
+        link: /projects/radiacao.html
   - name: Posts
     link: /
   - name: Sobre
